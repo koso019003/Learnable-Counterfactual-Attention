@@ -1,4 +1,4 @@
-# Learnable Counterfactual Attention for Fine-grained Music Classification
+# Learnable Counterfactual Attention for Music Classification
 
 
 ![Model architecture](./figures/Fig7.png)
